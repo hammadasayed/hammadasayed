@@ -100,7 +100,7 @@ I'm trying to turn what I learn into actual projects and experiments, while cont
 <!-- Add your social links here -->
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/](https://www.linkedin.com/in/mohamed-sayed-26183238a/)
 
 ---
 
